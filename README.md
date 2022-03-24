@@ -1,1 +1,2 @@
-# CI Demo 
+# CI Demo [![Build status](https://ci.appveyor.com/api/projects/status/oavthq6jvxp1ab7t?svg=true)](https://ci.appveyor.com/project/Tatyana0305/web-interface-testing-selenium-and-selenide)
+main branch status badge
